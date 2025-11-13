@@ -11,6 +11,7 @@ A simple web application to generate random colors with functionality. Fully res
 
 ## 💻 Features
 - Generate random colors instantly
+- Also see RGB values
 - Responsive design for all devices
 - Clean and simple UI
 
